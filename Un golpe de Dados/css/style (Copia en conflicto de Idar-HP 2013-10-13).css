@@ -2,9 +2,8 @@
 	margin: 0; padding: 0; 
 }
 body {
-	background-color: #f6f6f6;
 	font-family: 'bodonixtregular', serif;
-	color:#141414;
+	color:red;
 
 }
 
@@ -21,18 +20,18 @@ body {
 	max-width: 95%;
 	text-transform: uppercase;
 	text-align: center;
-	line-height: 15vw;
+	line-height: 15vh;
 
 }
 
 .contenido {
 	width: 95%;
-	margin: 2vw auto;
+	margin: 2vh auto;
 }
 
 pre {
 	margin: 20px 0;
-	font-family: 'Georgia', serif;
+	font-family: 'bodonixtregular', serif;
 	font-size: 3vw;
 	letter-spacing: 0.1vw;
 	white-space: pre-wrap;       /* css-3 */
@@ -44,19 +43,6 @@ pre {
 
 }
 
-.blanco {
-	font-size: 2.5vw;
-}
-
-.altas {
-	text-transform: uppercase;
-	font-size: 3vw
-}
-
-.derecha {
-	text-align: right;
-	display: block;
-}
 
 .Subtitulo {
 	font-size: 10.5vmin;
@@ -69,7 +55,7 @@ pre {
 }
 
 .texto {
-	font-size: 4vw; 
+	font-size: 2vmax; 
 	text-transform: none
 }
 .italic {
@@ -86,7 +72,7 @@ pre {
 }
 
 .espacio {
-	margin-bottom: 30vw;
+	margin-bottom: 60vh;
 }
 
 .altas {
@@ -99,15 +85,12 @@ pre {
 body {
 	background-color: #f6f6f6
 }
-.blanco {
-	font-size: 2.5vw;
-}
 
 pre {
-	font-family: 'Georgia', serif;
+	font-family: 'bodonixtregular', serif;
 	font-size: 3vw;
 	letter-spacing: 0;
-	line-height: 10vw;
+	line-height: 5.5vmin;
 	white-space: pre-wrap;       /* css-3 */
 	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
 	white-space: -pre-wrap;      /* Opera 4-6 */
@@ -116,7 +99,3 @@ pre {
 	margin: 20px 0
 }
 
-.altas {
-	text-transform: uppercase;
-	font-size: 3vw
-}
