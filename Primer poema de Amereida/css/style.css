@@ -41,7 +41,7 @@ h3 {
 pre {
 	padding: 0;
 	font-family: 'Radley', serif;
-	margin: 14vh 0 14vh -16vw;
+	margin: 14vw 0 14vw -16vw;
 	font-size: 2.8vw;
 	white-space: pre-wrap;       /* css-3 */
 	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
@@ -59,15 +59,15 @@ pre {
 
 
 .blanco-1 {
-	height: 74vh;
+	height: 74vw;
 }
 
 .blanco-2 {
-	height: 52vh;
+	height: 52vw;
 }
 
 .blanco-pagEntera{
-	height: 100vh;
+	height: 100vw;
 }
 
 img {
